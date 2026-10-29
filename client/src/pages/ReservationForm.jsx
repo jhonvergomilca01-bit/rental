@@ -31,6 +31,9 @@ export default function ReservationForm() {
   </>);
 }
 //   cd server
-// npm stcart
+// npm start
 //   cd client
   // npm run dev
+
+  // create me a .env file to connect my backend to my mongodb
+  // create a seed file to populate my database with some initial data
